@@ -1,2 +1,2 @@
-I’ve learned how to use Git and GitHub to manage project files, clone repositories, and work confidently in the terminal.
+What I have learned from this course
 
